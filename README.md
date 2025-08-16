@@ -3,6 +3,7 @@
 ## Preliminary Research
 
 * [Not David's Excellent Video](https://www.youtube.com/watch?v=o879xRxmwmU): Inspiration and technical guidance.
+* [Co-Citation Matrix Video](https://www.youtube.com/watch?v=iSyuvk94tlk): Derivation of the co-citation result.
 * [Louvain Algorithm Video](https://www.youtube.com/watch?v=QfTxqAxJp0U): Intro to Louvain community detection.
 
 ## Data Collection (`Data Collection.py`)
@@ -39,4 +40,4 @@
 ## Notes & Discoveries
 
 * Youtube API limit for fetching subscriptions of a user stops at 997 channels.
-* Community detection is good for realizing the local structure of the network.
+* Community detection is good for realizing the local structure of the network but not global.
